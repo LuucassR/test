@@ -1,4 +1,4 @@
-const Things = require("./odin-ttd-asigment.js");
+const Things = require("./odin-tdd-asigment.js");
 
 test("Shoud return the first letter of the text capitalized", () => {
   expect(Things.capitalize("hello, how are you")).toMatch("Hello, how are you");
