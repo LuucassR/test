@@ -1,1 +1,1 @@
-This is my first time using jest, this is for teh odin test unit assigment where i learn how to made simple but really useful test units andlearn how to TTD so i can expect sdomething and made it work
+This is my first time using jest, this is for teh odin test unit assigment where i learn how to made simple but really useful test units andlearn how to TDD so i can expect sdomething and made it work
